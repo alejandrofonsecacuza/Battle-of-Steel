@@ -1,7 +1,7 @@
 
 # 💣 Battle-of-Steel
 
-![Tank Duel Banner](https://i.ibb.co/G9ZtqM7/tank-duel-banner.png)
+![Tank Duel Banner](docs/banner.png)
 
 Un juego retro de **tanques en 2D** desarrollado en **ensamblador MIPS** sobre el simulador **MARS**.  
 Inspirado en *Pocket Tanks*, pero hecho a puro bajo nivel 💾🔥.
@@ -21,9 +21,9 @@ Inspirado en *Pocket Tanks*, pero hecho a puro bajo nivel 💾🔥.
 
 ## 🖼️ Capturas de Pantalla
 
-| Menú principal | Batalla en progreso | Impacto de proyectil |
+| Inicio | Batalla en progreso | Impacto de proyectil |
 |----------------|---------------------|-----------------------|
-| ![Menu](https://i.ibb.co/nMTCPpN/menu.png) | ![Gameplay](https://i.ibb.co/NL9T7sL/gameplay.png) | ![Explosion](https://i.ibb.co/2ZwF8Vn/explosion.png) |
+| ![Start](docs/start.png) | ![Gameplay](docs/ingame.png) | ![Explosion](docs/bullets.jpg) |
 
 ---
 
@@ -48,6 +48,15 @@ Inspirado en *Pocket Tanks*, pero hecho a puro bajo nivel 💾🔥.
 - `O` → Cambiar tipo de bala  
 
 ---
+![Features](docs/features.png)
+
+#### La figura muestra la interfaz del juego
+
+1. Vidas del tanque rojo
+2. Tipo de bala
+3. Potencia de la bala
+4. Ángulo del viento
+5. Potencia del viento
 
 ## ⚙️ Instalación y Ejecución
 
@@ -64,7 +73,8 @@ Inspirado en *Pocket Tanks*, pero hecho a puro bajo nivel 💾🔥.
 
 ## 📽️ Demo
 
-[![Watch the demo](https://i.ibb.co/3mC7Byn/demo-thumb.png)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+[Ver demo](docs/demo.webm)
+
 
 ---
 
