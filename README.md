@@ -62,8 +62,8 @@ Inspirado en *Pocket Tanks*, pero hecho a puro bajo nivel 💾🔥.
 
 1. Descarga el repositorio:  
    ```bash
-   git clone https://github.com/tuusuario/tank-duel-mips.git
-   cd tank-duel-mips
+   git clone https://github.com/alejandrofonsecacuza/Battle-of-Steel.git
+   cd Battle-of-Steel
    ```
 
 2. Abre el archivo en **MARS**.
