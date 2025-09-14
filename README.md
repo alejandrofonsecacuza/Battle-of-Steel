@@ -1,5 +1,5 @@
 
-# 🚀 Tank Duel MIPS
+# 💣 Battle-of-Steel
 
 ![Tank Duel Banner](https://i.ibb.co/G9ZtqM7/tank-duel-banner.png)
 
@@ -55,7 +55,7 @@ Inspirado en *Pocket Tanks*, pero hecho a puro bajo nivel 💾🔥.
    ```bash
    git clone https://github.com/tuusuario/tank-duel-mips.git
    cd tank-duel-mips
-````
+   ```
 
 2. Abre el archivo en **MARS**.
 3. Ejecuta el programa (`F5`) y ¡listo! 🎉
