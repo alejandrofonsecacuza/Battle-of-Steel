@@ -80,8 +80,8 @@ Inspirado en *Pocket Tanks*, pero hecho a puro bajo nivel 💾🔥.
 
 ## 👨‍💻 Autores
 
-* Juana Iris Pérez Salas
 * Alejandro Fonseca Cuza
+* Juana Iris Pérez Salas
 * Álvaro de Jesús Reyes
 * Carlos Antonio Velázquez
 
