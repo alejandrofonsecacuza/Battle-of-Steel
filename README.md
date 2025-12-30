@@ -1,94 +1,91 @@
-
-# 💣 Battle-of-Steel
+# 💣 Battle of Steel
 
 ![Tank Duel Banner](docs/banner.png)
 
-Un juego retro de **tanques en 2D** desarrollado en **ensamblador MIPS** sobre el simulador **MARS**.  
-Inspirado en *Pocket Tanks*, pero hecho a puro bajo nivel 💾🔥.
+A retro 2D tank game written in MIPS assembly for the MARS simulator.  
+Inspired by Pocket Tanks and implemented entirely at low level. 💾🔥
 
 ---
 
-## 🎮 Características
+## 🎮 Features
 
-- 🌄 **Mapas aleatorios** en cada partida.  
-- 🤖 **Dos tanques** que se enfrentan en combate estratégico.  
-- 💥 **5 tipos de balas** con efectos distintos.  
-- 🌬️ Influencia de **gravedad y viento** en los disparos.  
-- 🎯 Ajusta **ángulo y potencia** antes de disparar.  
-- 🕹️ **Modo local 2 jugadores** con controles de teclado.
+- 🌄 Random maps on every game.  
+- 🤖 Two tanks facing off in strategic combat.  
+- 💥 Five projectile types with different effects.  
+- 🌬️ Gravity and wind affecting shots.  
+- 🎯 Adjust angle and power before firing.  
+- 🕹️ Local 2-player mode with keyboard controls.
 
 ---
 
-## 🖼️ Capturas de Pantalla
+## 🖼️ Screenshots
 
-| Inicio | Batalla en progreso | Impacto de proyectil |
+| Start | In-game | Projectile Impact |
 |----------------|---------------------|-----------------------|
 | ![Start](docs/start.png) | ![Gameplay](docs/ingame.png) | ![Explosion](docs/bullets.jpg) |
 
 ---
 
-## 🎮 Controles
+## 🎮 Controls
 
-### 🔴 Tanque 1
-- `A` → Retroceder  
-- `D` → Avanzar  
-- `W` → Subir cañón  
-- `S` → Bajar cañón  
-- `E` → Disminuir potencia  
-- `R` → Aumentar potencia  
-- `Q` → Cambiar tipo de bala  
+### 🔴 Tank 1
+- `A` → Move back  
+- `D` → Move forward  
+- `W` → Raise cannon  
+- `S` → Lower cannon  
+- `E` → Decrease power  
+- `R` → Increase power  
+- `Q` → Change projectile type
 
-### 🔵 Tanque 2
-- `L` → Retroceder  
-- `J` → Avanzar  
-- `I` → Subir cañón  
-- `K` → Bajar cañón  
-- `U` → Disminuir potencia  
-- `Y` → Aumentar potencia  
-- `O` → Cambiar tipo de bala  
+### 🔵 Tank 2
+- `L` → Move back  
+- `J` → Move forward  
+- `I` → Raise cannon  
+- `K` → Lower cannon  
+- `U` → Decrease power  
+- `Y` → Increase power  
+- `O` → Change projectile type
 
 ---
+
 ![Features](docs/features.png)
 
-#### La figura muestra la interfaz del juego
+#### The figure shows the game interface
 
-1. Vidas del tanque rojo
-2. Tipo de bala
-3. Potencia de la bala
-4. Ángulo del viento
-5. Potencia del viento
+1. Red tank lives  
+2. Projectile type  
+3. Projectile power  
+4. Wind angle  
+5. Wind power
 
-## ⚙️ Instalación y Ejecución
+## ⚙️ Installation and Running
 
-1. Descarga el repositorio:  
+1. Clone the repository:  
    ```bash
    git clone https://github.com/alejandrofonsecacuza/Battle-of-Steel.git
    cd Battle-of-Steel
    ```
 
-2. Abre el archivo en **MARS**.
-3. Ejecuta el programa (`F5`) y ¡listo! 🎉
+2. Open the file in MARS.  
+3. Run the program (F5) and enjoy! 🎉
 
 ---
 
 ## 📽️ Demo
 
-[Ver demo](docs/demo.webm)
-
-
----
-
-## 👨‍💻 Autores
-
-* Alejandro Fonseca Cuza
-* Juana Iris Pérez Salas
-* Álvaro de Jesús Reyes
-* Carlos Antonio Velázquez
+[Watch demo](docs/demo.webm)
 
 ---
 
-## 📜 Licencia
+## 👨‍💻 Authors
 
-Este proyecto es open-source bajo la licencia MIT.
+- Alejandro Fonseca Cuza  
+- Juana Iris Pérez Salas  
+- Álvaro de Jesús Reyes  
+- Carlos Antonio Velázquez
 
+---
 
+## 📜 License
+
+This project is open-source under the MIT License.
